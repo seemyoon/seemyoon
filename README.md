@@ -7,29 +7,43 @@
 <a href="https://instagram.com/https://www.instagram.com/seemyoon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/seemyoon/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="background-color: #f0f0f0; padding: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<!--   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> -->
-<!--   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<!--   <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> -->
-</p>
+<h2 align="center">Tech Stack & Tools</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" hspace="3" title="Node JS"/> 
+  <img src="https://skillicons.dev/icons?i=ts" hspace="3" title="TypeScript"/> 
+  <img src="https://skillicons.dev/icons?i=js" hspace="3" title="JavaScript"/> 
+  <img src="https://skillicons.dev/icons?i=react" hspace="3" title="React"/>
+  <img src="https://skillicons.dev/icons?i=nestjs" hspace="3" title="NestJs"/> 
+  <img src="https://skillicons.dev/icons?i=express" hspace="3" title="Express"/> 
+  <img src="https://skillicons.dev/icons?i=html" hspace="3" title="HTML 5"/> 
+  <img src="https://skillicons.dev/icons?i=css" hspace="3" title="CSS 3"/>
+  <img src="https://skillicons.dev/icons?i=redux" hspace="3" title="Redux"/> 
+  <img src="https://skillicons.dev/icons?i=nextjs" hspace="3" title="Next JS"/> 
+  <img src="https://skillicons.dev/icons?i=mongodb" hspace="3" title="MongoDB"/> 
+  <img src="https://skillicons.dev/icons?i=mysql" hspace="3" title="MySQL"/> 
+  <img src="https://skillicons.dev/icons?i=sass" hspace="3" title="SASS"/> 
+  <img src="https://skillicons.dev/icons?i=aws" hspace="3" title="AWS"/>
+  <img src="https://skillicons.dev/icons?i=docker" hspace="3" title="Docker"/> 
+  <img src="https://skillicons.dev/icons?i=vscode" hspace="3" title="Visual Studio Code"/>
+  <img src="https://skillicons.dev/icons?i=vercel" hspace="3" title="Vercel"/>
+  <img src="https://skillicons.dev/icons?i=git" hspace="3" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" hspace="3" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=mysql" hspace="3" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" hspace="3" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=postgres" hspace="3" title="Postgres"/>
+  <img src="https://skillicons.dev/icons?i=postman" hspace="3" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=webstorm" hspace="3" title="Webstorm"/>
+  <img src="https://skillicons.dev/icons?i=npm" hspace="3" title="Npm"/>
+  <img src="https://skillicons.dev/icons?i=idea" hspace="3" title="Idea"/>
+  <img src="https://skillicons.dev/icons?i=linux" hspace="3" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=ubuntu" hspace="3" title="Ubuntu"/>
+  <img src="https://skillicons.dev/icons?i=figma" hspace="3" title="Figma"/> 
+  <!-- <img src="https://skillicons.dev/icons?i=spring" hspace="3" title="Spring"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=go" hspace="3" title="go"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=gcp" hspace="3" title="Gcp"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=bash" hspace="3" title="Bash"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=bootstrap" hspace="3" title="Bootstrap"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=kubernetes" hspace="3" title="Kubernetes"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=redis" hspace="3" title="Redis"/>  -->
+  <!-- <img src="https://skillicons.dev/icons?i=java" hspace="3" title="Java"/>  -->
+</div>
