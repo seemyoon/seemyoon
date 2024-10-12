@@ -9,6 +9,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seemyoon)](https://github.com/seemyoon/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seemyoon)](https://github.com/seemyoon/github-readme-stats)
+
 <h2 align="center">Tech Stack & Tools</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" hspace="3" title="Node JS"/> 
