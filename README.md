@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alexandr</h1>
-<h3 align="center">A passionate fullstack developer from Ukraine</h3>
+<h3 align="center">A passionate Fullstack developer from Ukraine</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alexandrsemenets/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexandrsemenets/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/seemyoon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/seemyoon/" height="30" width="40" /></a>
 </p>
+
+<div align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seemyoon)](https://github.com/seemyoon/github-readme-stats)
+</div>
 
 <h2 align="center">Tech Stack & Tools</h2>
 <div align="center">
