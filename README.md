@@ -29,7 +29,6 @@
   <img src="https://skillicons.dev/icons?i=git" hspace="3" title="Git"/>
   <img src="https://skillicons.dev/icons?i=github" hspace="3" title="GitHub"/>
   <img src="https://skillicons.dev/icons?i=mysql" hspace="3" title="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" hspace="3" title="MongoDB"/>
   <img src="https://skillicons.dev/icons?i=postgres" hspace="3" title="Postgres"/>
   <img src="https://skillicons.dev/icons?i=postman" hspace="3" title="Postman"/>
   <img src="https://skillicons.dev/icons?i=webstorm" hspace="3" title="Webstorm"/>
