@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexandr</h1>
 <h3 align="center">A passionate Fullstack developer from Ukraine</h3>
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alexandrsemenets/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexandrsemenets/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/seemyoon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/seemyoon/" height="30" width="40" /></a>
-</p>
-
 <h2 align="center">My Stats</h2>
 <div align="center">
 <img alt="Alexandr's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=seemyoon&show_icons=true&theme=transparent"/>
