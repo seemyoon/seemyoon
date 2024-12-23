@@ -24,6 +24,7 @@
   <img src="https://skillicons.dev/icons?i=kubernetes" hspace="3" title="Kubernetes"/>
   <img src="https://skillicons.dev/icons?i=aws" hspace="3" title="AWS"/>
   <img src="https://skillicons.dev/icons?i=npm" hspace="3" title="Npm"/>
+  <img src="https://skillicons.dev/icons?i=yarn" hspace="3" title="Yarn"/>
   <img src="https://skillicons.dev/icons?i=redis" hspace="3" title="Redis"/> 
   <img src="https://skillicons.dev/icons?i=linux" hspace="3" title="Linux"/>
   <img src="https://skillicons.dev/icons?i=ubuntu" hspace="3" title="Ubuntu"/>
