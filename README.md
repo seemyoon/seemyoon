@@ -11,8 +11,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" hspace="3" title="Node JS"/> 
   <img src="https://skillicons.dev/icons?i=ts" hspace="3" title="TypeScript"/> 
-   <img src="https://skillicons.dev/icons?i=py" hspace="3" title="Python"/> 
   <img src="https://skillicons.dev/icons?i=js" hspace="3" title="JavaScript"/> 
+  <img src="https://skillicons.dev/icons?i=py" hspace="3" title="Python"/> 
   <img src="https://skillicons.dev/icons?i=react" hspace="3" title="React"/>
   <img src="https://skillicons.dev/icons?i=nestjs" hspace="3" title="NestJs"/> 
   <img src="https://skillicons.dev/icons?i=express" hspace="3" title="Express"/> 
