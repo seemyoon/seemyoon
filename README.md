@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aleksandr</h1>
-<h3 align="center">A passionate Fullstack developer from Ukraine</h3>
+<h1 align="center">Hi there 👋, I'm Oleksandr, a Fullstack Developer with expertise in both frontend and backend technologies.</h1>
 
 <h2 align="center">My Stats</h2>
 <div align="center">
