@@ -8,103 +8,92 @@
 
 <h3 align="center">Tech Stack & Tools</h3>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  
-  <!-- Languages Section -->
-  <div style="flex: 1 1 calc(33.333% - 20px); min-width: 200px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+
+  <!-- Technologies Block -->
+  <div style="flex: 1 1 300px; min-width: 250px; padding: 10px; text-align: center;">
     <strong>Languages:</strong><br/>
-    <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
-    <img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
-    <img src="https://skillicons.dev/icons?i=py" title="Python"/>
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=py" title="Python" style="margin: 5px;"/>
   </div>
 
-  <!-- Backend Section -->
-  <div style="flex: 1 1 calc(33.333% - 20px); min-width: 200px;">
+  <div style="flex: 1 1 300px; min-width: 250px; padding: 10px; text-align: center;">
     <strong>Backend:</strong><br/>
-    <img src="https://skillicons.dev/icons?i=nestjs" title="NestJS"/>
-    <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
-    <img src="https://skillicons.dev/icons?i=express" title="Express"/>
+    <img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=express" title="Express" style="margin: 5px;"/>
   </div>
 
-  <!-- Frontend Section -->
-  <div style="flex: 1 1 calc(33.333% - 20px); min-width: 200px;">
+  <div style="flex: 1 1 300px; min-width: 250px; padding: 10px; text-align: center;">
     <strong>Frontend:</strong><br/>
-    <img src="https://skillicons.dev/icons?i=react" title="React"/>
-    <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/>
-    <img src="https://skillicons.dev/icons?i=redux" title="Redux"/>
-    <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
-    <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
-    <img src="https://skillicons.dev/icons?i=sass" title="SASS"/>
+    <img src="https://skillicons.dev/icons?i=react" title="React" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=redux" title="Redux" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=html" title="HTML" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=css" title="CSS" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=sass" title="SASS" style="margin: 5px;"/>
   </div>
 
-  <!-- Databases Section -->
-  <div style="flex: 1 1 calc(33.333% - 20px); min-width: 200px;">
+  <div style="flex: 1 1 300px; min-width: 250px; padding: 10px; text-align: center;">
     <strong>Databases:</strong><br/>
-    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
-    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
-    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
-    <img src="https://skillicons.dev/icons?i=redis" title="Redis"/>
+    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=redis" title="Redis" style="margin: 5px;"/>
   </div>
 
-  <!-- Machine Learning & AI Section -->
-  <div style="flex: 1 1 calc(33.333% - 20px); min-width: 200px;">
+  <div style="flex: 1 1 300px; min-width: 250px; padding: 10px; text-align: center;">
     <strong>Machine Learning & AI:</strong><br/>
-    <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow"/>
-    <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda"/>
-    <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn"/>
-    <img src="https://skillicons.dev/icons?i=matlab" title="MATLAB"/>
-    <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch"/>
-    <img src="https://skillicons.dev/icons?i=octave" title="Octave"/>
+    <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=matlab" title="MATLAB" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=octave" title="Octave" style="margin: 5px;"/>
   </div>
 
-  <!-- DevOps Section -->
-  <div style="flex: 1 1 calc(33.333% - 20px); min-width: 200px;">
+  <div style="flex: 1 1 300px; min-width: 250px; padding: 10px; text-align: center;">
     <strong>DevOps:</strong><br/>
-    <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
-    <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes"/>
-    <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
-    <img src="https://skillicons.dev/icons?i=nginx" title="Nginx"/>
+    <img src="https://skillicons.dev/icons?i=docker" title="Docker" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=aws" title="AWS" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" style="margin: 5px;"/>
   </div>
 
-  <!-- OS Section -->
-  <div style="flex: 1 1 calc(33.333% - 20px); min-width: 200px;">
+  <div style="flex: 1 1 300px; min-width: 250px; padding: 10px; text-align: center;">
     <strong>OS:</strong><br/>
-    <img src="https://skillicons.dev/icons?i=apple" title="Mac OS"/>
-    <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
-    <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu"/>
+    <img src="https://skillicons.dev/icons?i=apple" title="Mac OS" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=linux" title="Linux" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" style="margin: 5px;"/>
   </div>
 
-  <!-- Package Managers Section -->
-  <div style="flex: 1 1 calc(33.333% - 20px); min-width: 200px;">
+  <div style="flex: 1 1 300px; min-width: 250px; padding: 10px; text-align: center;">
     <strong>Package Managers:</strong><br/>
-    <img src="https://skillicons.dev/icons?i=npm" title="NPM"/>
-    <img src="https://skillicons.dev/icons?i=yarn" title="Yarn"/>
+    <img src="https://skillicons.dev/icons?i=npm" title="NPM" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=yarn" title="Yarn" style="margin: 5px;"/>
   </div>
 
-  <!-- Test Section -->
-  <div style="flex: 1 1 calc(33.333% - 20px); min-width: 200px;">
+  <div style="flex: 1 1 300px; min-width: 250px; padding: 10px; text-align: center;">
     <strong>Test:</strong><br/>
-    <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+    <img src="https://skillicons.dev/icons?i=postman" title="Postman" style="margin: 5px;"/>
   </div>
 
-  <!-- IDEs & Editors Section -->
-  <div style="flex: 1 1 calc(33.333% - 20px); min-width: 200px;">
+  <div style="flex: 1 1 300px; min-width: 250px; padding: 10px; text-align: center;">
     <strong>IDEs & Editors:</strong><br/>
-    <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm"/>
-    <img src="https://skillicons.dev/icons?i=webstorm" title="WebStorm"/>
-    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
+    <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=webstorm" title="WebStorm" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" style="margin: 5px;"/>
   </div>
 
-  <!-- Version Control Systems Section -->
-  <div style="flex: 1 1 calc(33.333% - 20px); min-width: 200px;">
+  <div style="flex: 1 1 300px; min-width: 250px; padding: 10px; text-align: center;">
     <strong>Version Control Systems:</strong><br/>
-    <img src="https://skillicons.dev/icons?i=git" title="Git"/>
-    <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=git" title="Git" style="margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" style="margin: 5px;"/>
   </div>
 
-  <!-- Design Section -->
-  <div style="flex: 1 1 calc(33.333% - 20px); min-width: 200px;">
+  <div style="flex: 1 1 300px; min-width: 250px; padding: 10px; text-align: center;">
     <strong>Design:</strong><br/>
-    <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
+    <img src="https://skillicons.dev/icons?i=figma" title="Figma" style="margin: 5px;"/>
   </div>
 </div>
