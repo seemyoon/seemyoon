@@ -1,11 +1,4 @@
 <h2 align="center">Hi there 👋, I'm Oleksandr, a Software Engineer</h2>
-
-<h3 align="center">My Stats</h3>
-<div align="center">
-  <img alt="Alexandr's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=seemyoon&show_icons=true&theme=transparent"/>
-  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seemyoon&layout=compact&langs_count=8&theme=transparent"/>
-</div>
-
 <h3 align="center">Tech Stack & Tools</h3>
 
 <div align="center">
@@ -78,4 +71,10 @@
     <strong>Design:</strong><br/>
     <img src="https://skillicons.dev/icons?i=figma" hspace="2" title="Figma" style="margin: 5px;"/>
   </div>
+  
+<h3 align="center">My Stats</h3>
+<div align="center">
+  <img alt="Alexandr's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=seemyoon&show_icons=true&theme=transparent"/>
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seemyoon&layout=compact&langs_count=8&theme=transparent"/>
+</div>  
 </div>
