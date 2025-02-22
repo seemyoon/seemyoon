@@ -8,12 +8,10 @@
 
 <h3 align="center">Tech Stack & Tools</h3>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
-    <strong>Languages:</strong><br/>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=js" title="JavaScript" style="margin: 5px;"/>
     <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" style="margin: 5px;"/>
     <img src="https://skillicons.dev/icons?i=py" title="Python" style="margin: 5px;"/>
-    <strong>Backend:</strong><br/>
     <img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" style="margin: 5px;"/>
     <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" style="margin: 5px;"/>
     <img src="https://skillicons.dev/icons?i=express" title="Express" style="margin: 5px;"/>
