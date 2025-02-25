@@ -31,9 +31,9 @@
       <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" style="width:32px; height:32px;"/>
       <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" style="width:32px; height:32px;"/>
       <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn" style="width:32px; height:32px;"/>
-      <img src="https://skillicons.dev/icons?i=matlab" title="MATLAB" style="width:32px; height:32px;"/>
-      <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" style="width:32px; height:32px;"/>
-      <img src="https://skillicons.dev/icons?i=octave" title="Octave" style="width:32px; height:32px;"/>
+<!--       <img src="https://skillicons.dev/icons?i=matlab" title="MATLAB" style="width:32px; height:32px;"/> -->
+<!--       <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" style="width:32px; height:32px;"/> -->
+<!--       <img src="https://skillicons.dev/icons?i=octave" title="Octave" style="width:32px; height:32px;"/> -->
     </td>
     <td style="vertical-align:middle; text-align:center;"><strong>DevOps:</strong><br/>
       <img src="https://skillicons.dev/icons?i=docker" title="Docker" style="width:32px; height:32px;"/>
