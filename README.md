@@ -12,6 +12,7 @@
       <img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" style="width:32px; height:32px;"/>
       <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" style="width:32px; height:32px;"/>
       <img src="https://skillicons.dev/icons?i=express" title="Express" style="width:32px; height:32px;"/>
+      <img src="https://skillicons.dev/icons?i=django" title="Django" style="width:32px; height:32px;"/>
     </td>
     <td style="vertical-align:middle; text-align:center;"><strong>Databases:</strong><br/>
       <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" style="width:32px; height:32px;"/>
