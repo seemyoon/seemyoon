@@ -23,6 +23,7 @@
     <td style="vertical-align:middle; text-align:center;"><strong>Frontend:</strong><br/>
       <img src="https://skillicons.dev/icons?i=react" title="React" style="width:32px; height:32px;"/>
       <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" style="width:32px; height:32px;"/>
+      <img src="https://skillicons.dev/icons?i=vue" title="Vue" style="width:32px; height:32px;"/>
       <img src="https://skillicons.dev/icons?i=redux" title="Redux" style="width:32px; height:32px;"/>
       <img src="https://skillicons.dev/icons?i=html" title="HTML" style="width:32px; height:32px;"/>
       <img src="https://skillicons.dev/icons?i=css" title="CSS" style="width:32px; height:32px;"/>
